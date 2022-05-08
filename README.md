@@ -2,7 +2,7 @@
 [![thegeek-sys's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thegeek-sys&theme=tokyonight)](https://github.com/thegeek-sys/thegeek-sys/)
 
 <a href="https://github.com/thegeek-sys/thegeek-sys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegeek-sys&repo=thegeek-sys&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegeek-sys&repo=AF1-Notification&theme=tokyonight" />
 </a>
 <a href="https://github.com/thegeek-sys/flack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegeek-sys&repo=flack&theme=tokyonight" />
