@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegeek-sys&repo=AF1-Notification&theme=tokyonight" />
 </a>
 <a href="https://github.com/thegeek-sys/flack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegeek-sys&repo=&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thegeek-sys&repo=flack&theme=tokyonight" />
 </a>
 <br></br>
 <p align="center">
